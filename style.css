@@ -1,0 +1,39 @@
+*{
+    font-size: 10px;
+    margin: 0px; /*kc từ a -> b(bên ngoài) */
+     padding: 0px; /*(bên trong) */
+     font-family: sans-serif
+}
+
+h3{
+    color: rgb(53, 121, 199) !important;
+    font-size: 3rem;
+    text-align: left;
+}
+.text-title{
+    color: brown;
+    text-align: center;
+    font-size: 4rem;/* 4*10(html)==40px* && em */
+}
+h2{
+    font-size: 5rem;
+}
+#bang-noi-quy{
+    /* border-width: 3px;
+    border-style: solid;
+    border-color: rgb(40, 40, 97);*/
+    background-color: rgba(255, 255, 255, 0.801); 
+    border: 10px solid rgb(48, 48, 180);
+    margin: 20px;
+    padding: 5px;
+}
+#bang-noi-quy > div{
+    border: 5px solid rgb(96, 112, 163);
+    padding: 50px;
+}
+h6{
+    font-size: 18px;
+}
+p{
+    font-size: 16px;
+}
